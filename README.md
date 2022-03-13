@@ -21,3 +21,6 @@ MLP Multilayer Perceptron with activation ReLU and L-BFGS solver, Probabilistic 
 
 #### HW5: 
 Counting based Heuristics, Information-theoretic Heuristic, Decision Tree Classifier
+
+#### PROJECTS:
+Exploring Varies Models, Feature Engineering, Natural Language Processing NLP
