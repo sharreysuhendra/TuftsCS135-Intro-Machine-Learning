@@ -8,7 +8,7 @@ Python libraries used:
 4. Matplotlib
 5. Graphviz
 
-## hw2: 
+### hw2: 
 Linear Regression Models, 5 Fold Cross Validations, Ridge Regression, Regularization Strengths
 
 ## hw3: 
