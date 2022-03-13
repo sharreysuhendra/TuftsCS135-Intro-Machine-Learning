@@ -8,9 +8,11 @@ Python libraries used:
 4. Matplotlib
 5. Graphviz
 
-hw2: Linear Regression Models, 5 Fold Cross Validations, Ridge Regression, Regularization Strengths
+## hw2: 
+Linear Regression Models, 5 Fold Cross Validations, Ridge Regression, Regularization Strengths
 
-hw3: Confusion Matrix, Perceptron Classifier, ROC Curves
+## hw3: 
+Confusion Matrix, Perceptron Classifier, ROC Curves
 
 hw4: MLP Multilayer Perceptron with activation ReLU and L-BFGS solver, Probabilistic Predictions, Optimizations
 
