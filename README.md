@@ -1,4 +1,4 @@
-# TuftsCS135 Intro to Machine Learning and Data Mining
+# Tufts CS135: Intro to Machine Learning and Data Mining
 Public-facing repository for homework and project code in Tufts' Intro to ML course for Fall 2021. All codes run through jupyter notebook, containing explanations and analysis.
 
 ## Python libraries used:
