@@ -8,4 +8,5 @@ Python Libraries Used:
 4. Matplotlib
 
 hw2: Linear Regression Models, 5 Fold Cross Validations, Ridge Regression, Regularization Strengths
+
 hw3: Confusion Matrix, Perceptron Classifier, ROC Curves
