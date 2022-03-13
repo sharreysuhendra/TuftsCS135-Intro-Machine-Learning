@@ -8,14 +8,14 @@ Public-facing repository for homework and project code in Tufts' Intro to ML cou
 4. Matplotlib
 5. Graphviz
 
-#### hw2:
+#### HW2:
 Linear Regression Models, 5 Fold Cross Validations, Ridge Regression, Regularization Strengths
 
-#### hw3: 
+#### HW3: 
 Confusion Matrix, Perceptron Classifier, ROC Curves
 
-#### hw4: 
+#### HW4: 
 MLP Multilayer Perceptron with activation ReLU and L-BFGS solver, Probabilistic Predictions, Optimizations
 
-****hw5: 
+#### HW5: 
 Counting based Heuristics, Information-theoretic Heuristic, Decision Tree Classifier
